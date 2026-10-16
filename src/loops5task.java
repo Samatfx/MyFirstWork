@@ -8,7 +8,7 @@ public class loops5task {
         int i = 0;
         while (i <= num){
             System.out.println(i);
-            i+=2;
+            i++;
         }
 
 
@@ -26,7 +26,7 @@ public class loops5task {
 //        Scanner oneToN = new Scanner(System.in);
 //        System.out.print("Please enter the number you wanted to be counted: ");
 //        int num = oneToN.nextInt();
-//        for(int i = 0; i <= num; i+=2 )
+//        for(int i = 0; i <= num; i++ )
 //            System.out.println(i);
 //
 //        }
@@ -45,7 +45,7 @@ public class loops5task {
 //        int num = doLoop.nextInt();
 //        int i = 0;
 //        do {
-//            i +=2;
+//            i ++;
 //            System.out.println(i);
 //        }
 //        while( i <= num);
